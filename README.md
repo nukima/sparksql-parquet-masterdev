@@ -1,5 +1,5 @@
 # sparksql-parquet-masterdev
-#Chạy job trên YARN
+# Chạy job trên YARN
 ```
 ssh hadoop@172.17.80.27
 Password:1
